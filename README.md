@@ -41,3 +41,13 @@ This project demonstrates how multiple Python libraries can work together to cre
 
 ## 📂 Project Structure
 
+📁 Jarvis-AI
+┣ 📄 main.py
+┣ 📄 musicLibrary.py
+┣ 📄 README.md
+┗ 📄 requirements.txt
+
+
+---
+
+
